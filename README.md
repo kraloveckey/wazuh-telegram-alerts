@@ -1,7 +1,5 @@
 # Integrating Telegram with Wazuh
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
-
 This integration allow to send alert in Telegram from Wazuh Server.
 
 ## Creating the bot and getting information
@@ -100,3 +98,9 @@ DESCRIPTION - - [01/Feb/2024:19:00:00 +0100] "POST /check.php?11111.111111 HTTP/
 Groups: web, appsec, attack
 Rule: 31533
 ```
+
+---
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
+  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
+</a>
